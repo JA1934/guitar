@@ -1,10 +1,10 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="g-a!+4u`?_d*P2b;pZy6" x="637" y="-40"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="Pfi(cLmTFH0y37_JSA%@"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="g-a!+4u`?_d*P2b;pZy6" x="617" y="-60"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="Pfi(cLmTFH0y37_JSA%@"><field name="LEDS">`
         . # . # . 
         . . . . . 
         . . . . . 
         # . . . # 
         . # # # .
-        `</field><next><block type="device_play_note" id="*nU*Q?iGE{)w^:Unr$C*"><value name="note"><shadow type="device_note" id="AHV#E1@]+px:FD|%G%*L"><field name="name">392</field></shadow></value><value name="duration"><shadow type="device_beat" id="r4tl$?8[96=vc7fU9.s$"><field name="fraction">BeatFraction.Whole</field></shadow></value></block></next></block></statement></block><block type="pxt-on-start" id="|xSgV]o)z3+|I}CnbcEv" x="20" y="20"/><block type="device_forever" id="z49k)wwxKU8u}.aw^DYD" x="225" y="20"/><block type="device_button_event" id="9?}]11KeR4p%;eEEo]x[" x="364" y="158"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="6vRUE(jwy}8SnhXQbI?@"><field name="LEDS">`
+        `</field><next><block type="device_play_note" id="*nU*Q?iGE{)w^:Unr$C*"><value name="note"><shadow type="device_note" id="AHV#E1@]+px:FD|%G%*L"><field name="name">392</field></shadow></value><value name="duration"><shadow type="device_beat" id="r4tl$?8[96=vc7fU9.s$"><field name="fraction">BeatFraction.Whole</field></shadow></value></block></next></block></statement></block><block type="pxt-on-start" id="|xSgV]o)z3+|I}CnbcEv" x="0" y="0"/><block type="device_forever" id="z49k)wwxKU8u}.aw^DYD" x="205" y="0"/><block type="device_button_event" id="9?}]11KeR4p%;eEEo]x[" x="344" y="138"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="6vRUE(jwy}8SnhXQbI?@"><field name="LEDS">`
         . # . # . 
         . . . . . 
         . # # # . 
